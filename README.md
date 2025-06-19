@@ -1,3 +1,5 @@
+<div align="center">
+
 # Rubin 👋
 
 Backend dev & Security
@@ -10,6 +12,7 @@ Backend dev & Security
 - PostgreSQL  
 - Git, Linux  
 - Pentesting
+- Apps & Websites 
 
 ---
 
@@ -18,16 +21,14 @@ Backend dev & Security
 - Automation scripts  
 - Security experiments  
 - Tools & bots
-- Apps & WebsiteS
+
 ---
 
 ### Extras
-Discord bots, automation, scripts and more
+Discord bots, automation, scripts, and more
 
 ---
 
 Focused. Building. Improving.
 
----
-
-[![Rubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubinexe&show_icons=true&hide_border=true&theme=dark)](https://github.com/rubinexe)
+</div>
