@@ -4,6 +4,8 @@
 
 Backend dev & Security
 
+ </div> 
+ 
 ---
 
 ### Skills
@@ -31,4 +33,4 @@ Discord bots, automation, scripts, and more
 
 Focused. Building. Improving.
 
-</div>
+
